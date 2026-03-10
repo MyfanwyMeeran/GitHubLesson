@@ -12,6 +12,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
 **Research location:** 
+**Research location (Antarctica):** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
 
 **Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
 
